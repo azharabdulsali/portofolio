@@ -10,10 +10,14 @@
             "dest": "/api/index.php"
         }
     ],
+    "builds": [
+        { "src": "package.json", "use": "@vercel/node" },
+        { "src": "public/index.php", "use": "@vercel/php" }
+    ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
-        "APP_URL": "https://your.url.from.vercel.app",
+        "APP_DEBUG": "false",
+        "APP_URL": "https://your-actual-vercel-url.vercel.app",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
@@ -25,5 +29,10 @@
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie"
+    },
+    "build": {
+        "env": {
+            "NODE_ENV": "production"
+        }
     }
 }
