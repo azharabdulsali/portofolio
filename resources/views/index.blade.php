@@ -55,7 +55,7 @@
         <!-- Hero Section -->
         <section id="hero" class="hero section light-background">
 
-            <img src="{{ asset('img/hero-bg.jpg') }}" alt="">
+            <img src="/assets/img/hero-bg.jpg" alt="">
 
             <div class="container" data-aos="zoom-out">
                 <div class="row justify-content-center">
@@ -97,7 +97,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
 
                 <div class="row gy-4 justify-content-center">
                     <div class="col-lg-4">
-                        <img src="{{ asset('img/profile-img.jpg') }}" class="img-fluid" alt="">
+                        <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 content">
                         <h2>Web Developer.</h2>
@@ -709,7 +709,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="{{ asset('img/testimonials/testimonials-1.jpg') }}"
+                                        <img src="/assets/img/testimonials/testimonials-1.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -738,7 +738,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="{{ asset('img/testimonials/testimonials-2.jpg') }}"
+                                        <img src="/assets/img/testimonials/testimonials-2.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -767,7 +767,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="{{ asset('img/testimonials/testimonials-3.jpg') }}"
+                                        <img src="/assets/img/testimonials/testimonials-3.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -796,7 +796,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="{{ asset('img/testimonials/testimonials-4.jpg') }}"
+                                        <img src="/assets/img/testimonials/testimonials-4.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
