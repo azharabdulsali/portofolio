@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Portfolio</title>
+    <title>Azhar Abdul Sali</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -43,7 +43,7 @@
                 <li><a href="#about"><i class="bi bi-person navicon"></i><span>About</span></a></li>
                 <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i><span>Resume</span></a></li>
                 <li><a href="#portfolio"><i class="bi bi-images navicon"></i><span>Portfolio</span></a></li>
-                <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i><span>Services</span></a></li>
+                {{-- <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i><span>Services</span></a></li> --}}
                 <li><a href="#contact"><i class="bi bi-envelope navicon"></i><span>Contact</span></a></li>
             </ul>
         </nav>
@@ -65,13 +65,13 @@
                                 data-typed-items="Web Developer, Backend Developer, Freelancer, Photographer">Designer</span><span
                                 class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
                         <div class="social-links">
-                            <a href="#"><i class="bi bi-twitter-x"></i></a>
-                            <a href="#"><i class="bi bi-instagram"></i></a>
+                            <a href="https://twitter.com/azhaaaaarrr"><i class="bi bi-twitter-x"></i></a>
+                            <a href="https://www.instagram.com/_azhar.as"><i class="bi bi-instagram"></i></a>
                             <a href="https://www.linkedin.com/in/
 azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                             <a href="https://github.com/azharabdulsali"><i class="bi bi-github"></i></a>
-                            <a href="#"><i class="bi bi-gitlab"></i></a>
-                            <a href="#"><i class="bi bi-whatsapp"></i></a>
+                            <a href="https://gitlab.com/azharabdulsali"><i class="bi bi-gitlab"></i></a>
+                            <a href="https://wa.me/6282255982196"><i class="bi bi-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
@@ -97,14 +97,16 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
 
                 <div class="row gy-4 justify-content-center">
                     <div class="col-lg-4">
-                        <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
+                        <img src="/assets/img/profile.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 content">
                         <h2>Web Developer.</h2>
                         <p class="fst-italic py-3">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore
-                            magna aliqua.
+                            Web Developer skilled in PHP and the Laravel framework, specializing in creating
+                            dynamic, secure, and scalable web applications. With a focus on performance and user
+                            experience, I develop RESTful APIs, manage databases, and apply best practices in coding.
+                            Passionate about learning, I strive to deliver efficient, maintainable solutions in every
+                            project.
                         </p>
                         <div class="row">
                             <div class="col-lg-6">
@@ -112,7 +114,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>20 August
                                             2003</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
-                                        <span>www.example.com</span>
+                                        <span>www.azharabdulsali.my.id</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62 822 5598
                                             2196</span></li>
@@ -126,7 +128,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Major</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
-                                        <span>email@example.com</span>
+                                        <span>syafiq.azhar02@gmail.com</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
                                         <span>Available</span>
@@ -135,10 +137,10 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <p class="py-3">
-                            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt
-                            adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus
-                            itaque neque.
+                            Driven by a passion for technology, I continuously seek opportunities to refine my skills
+                            and stay updated with the latest industry trends. I value collaboration and believe that
+                            working closely with clients and team members leads to the best results. My mission is to
+                            contribute positively to every project and leave a lasting impact through my work
                         </p>
                     </div>
                 </div>
@@ -157,7 +159,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
                         <i class="bi bi-emoji-smile"></i>
                         <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Happy Clients</p>
                         </div>
@@ -166,7 +168,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
                         <i class="bi bi-journal-richtext"></i>
                         <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Projects</p>
                         </div>
@@ -184,7 +186,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
                         <i class="bi bi-people"></i>
                         <div class="stats-item">
-                            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Hard Workers</p>
                         </div>
@@ -202,7 +204,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Skills</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>Here’s an overview of my key skills and their proficiency levels</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -212,17 +214,17 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     <div class="col-lg-6">
 
                         <div class="progress">
-                            <span class="skill"><span>HTML</span> <i class="val">100%</i></span>
+                            <span class="skill"><span>HTML</span> <i class="val">90%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
                                     aria-valuemax="100"></div>
                             </div>
                         </div><!-- End Skills Item -->
 
                         <div class="progress">
-                            <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
+                            <span class="skill"><span>CSS</span> <i class="val">85%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
                                     aria-valuemax="100"></div>
                             </div>
                         </div><!-- End Skills Item -->
@@ -248,9 +250,9 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                         </div><!-- End Skills Item -->
 
                         <div class="progress">
-                            <span class="skill"><span>WordPress/CMS</span> <i class="val">90%</i></span>
+                            <span class="skill"><span>WordPress/CMS</span> <i class="val">20%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0"
                                     aria-valuemax="100"></div>
                             </div>
                         </div><!-- End Skills Item -->
@@ -277,9 +279,8 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Resume</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                    consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                    fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>A brief overview of my educational background and work experience that highlight
+                    my journey and growth as a Web Developer.</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -367,9 +368,8 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Portfolio</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                    consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                    fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>Discover my portfolio featuring a diverse range of projects that highlight my expertise in web
+                    development, software solutions, and creative problem-solving across various technologies</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -395,7 +395,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="{{ asset('assets/img/masonry-portfolio/masonry-portfolio-1.jpg') }}"
                                     title="App 1" data-gallery="portfolio-gallery-app"
                                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -409,7 +409,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" title="Product 1"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -423,7 +423,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" title="Branding 1"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -437,7 +437,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-4.jpg" title="App 2"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -451,7 +451,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" title="Product 2"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -465,7 +465,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -479,7 +479,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" title="App 3"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -493,7 +493,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" title="Product 3"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -507,7 +507,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                 <a href="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -521,7 +521,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
         </section><!-- /Portfolio Section -->
 
         <!-- Services Section -->
-        <section id="services" class="services section">
+        {{-- <section id="services" class="services section">
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
@@ -656,7 +656,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
 
             </div>
 
-        </section><!-- /Services Section -->
+        </section><!-- /Services Section --> --}}
 
         <!-- Testimonials Section -->
         <section id="testimonials" class="testimonials section">
@@ -664,7 +664,8 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Testimonials</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>Read what clients and collaborators have to say about my work, highlighting the impact of my skills
+                    and dedication to delivering quality results</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -709,7 +710,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="/assets/img/testimonials/testimonials-1.jpg"
+                                        <img src="/assets/img/testimonials/cowo1.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -738,7 +739,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="/assets/img/testimonials/testimonials-2.jpg"
+                                        <img src="/assets/img/testimonials/cewe1.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -767,7 +768,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="/assets/img/testimonials/testimonials-3.jpg"
+                                        <img src="/assets/img/testimonials/cowo2.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -796,7 +797,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-2 text-center">
-                                        <img src="/assets/img/testimonials/testimonials-4.jpg"
+                                        <img src="/assets/img/testimonials/cewe2.jpg"
                                             class="img-fluid testimonial-img" alt="">
                                     </div>
                                 </div>
@@ -817,7 +818,8 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Contact</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>Get in touch with me for collaborations, project inquiries, or any questions. I'm always open to
+                    connecting and exploring new opportunities</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade" data-aos-delay="100">
@@ -829,23 +831,23 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h3>Address</h3>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>Kota Semarang, Indonesia</p>
                             </div>
                         </div><!-- End Info Item -->
 
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                             <i class="bi bi-telephone flex-shrink-0"></i>
                             <div>
-                                <h3>Call Us</h3>
-                                <p>+1 5589 55488 55</p>
+                                <h3>Phone</h3>
+                                <p>+62 822 5598 2196</p>
                             </div>
                         </div><!-- End Info Item -->
 
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
-                                <h3>Email Us</h3>
-                                <p>info@example.com</p>
+                                <h3>Email</h3>
+                                <p>syafiq.azhar02@gmail.com</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -897,15 +899,16 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
 
     <footer id="footer" class="footer position-relative light-background">
         <div class="container">
-            <h3 class="sitename">Brandon Johnson</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi
-                placeat.</p>
+            <h3 class="sitename">Azhar Abdul Sali</h3>
+            <p>Passionate web developer focused on crafting innovative and user-friendly digital experiences. Let's
+                build something great together</p>
             <div class="social-links d-flex justify-content-center">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-skype"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="https://twitter.com/azhaaaaarrr"><i class="bi bi-twitter-x"></i></a>
+                <a href="https://www.instagram.com/_azhar.as"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
+                <a href="https://github.com/azharabdulsali"><i class="bi bi-github"></i></a>
+                <a href="https://gitlab.com/azharabdulsali"><i class="bi bi-gitlab"></i></a>
+                <a href="https://wa.me/6282255982196"><i class="bi bi-whatsapp"></i></a>
             </div>
             <div class="container">
                 <div class="copyright">

@@ -6,7 +6,7 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/portofolio-details', function () {
+Route::get('/portfolio-details', function () {
     return view('portfolio-details');
 });
 
