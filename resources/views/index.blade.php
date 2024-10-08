@@ -8,7 +8,7 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section light-background">
 
-        <img src="/assets/img/hero-bg.jpg" alt="">
+        <img src="/assets/img/bg.png" alt="">
 
         <div class="container" data-aos="zoom-out">
             <div class="row justify-content-center">
@@ -50,7 +50,7 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
 
             <div class="row gy-4 justify-content-center">
                 <div class="col-lg-4">
-                    <img src="/assets/img/profile.jpg" class="img-fluid" alt="">
+                    <img src="/assets/img/profile.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 content">
                     <h2>Web Developer.</h2>
