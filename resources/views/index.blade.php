@@ -280,9 +280,10 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                     <h3 class="resume-title">Professional Experience</h3>
                     <div class="resume-item">
-                        <h4>Senior graphic design specialist</h4>
-                        <h5>2019 - Present</h5>
-                        <p><em>Experion, New York, NY </em></p>
+                        <h4>Software Developer</h4>
+                        <h5>Sept 2024 - Dec 2024</h5>
+                        <p><em>Balai Pengembangan Sumber Daya Manusia dan Penelitian (BPSDMP) Komunikasi dan Informatika
+                                (Kominfo), Yogyakarta </em></p>
                         <ul>
                             <li>Lead in the design, development, and implementation of the graphic, layout, and
                                 production communication materials</li>
@@ -296,16 +297,26 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     </div><!-- Edn Resume Item -->
 
                     <div class="resume-item">
-                        <h4>Graphic design specialist</h4>
-                        <h5>2017 - 2018</h5>
-                        <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                        <h4>Software Developer</h4>
+                        <h5>Jan 2024 - Jun 2024</h5>
+                        <p><em>Media Center Institute (LMC) Muhammadiyah University of Semarang</em></p>
                         <ul>
-                            <li>Developed numerous marketing programs (logos, brochures,infographics, presentations,
-                                and advertisements).</li>
-                            <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                            <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                            <li>Created 4+ design presentations and proposals a month for clients and account
-                                managers</li>
+                            <li>Supporting the IT team at Muhammadiyah University of Semarang (Unimus) in web system
+                                development using PHP, JavaScript, and Laravel</li>
+                            <li>Developed OSCE examination system for D3 Health Analysis study program students</li>
+                            <li>Implemented entity relationship diagrams by creating databases using MySQL</li>
+                            <li>Monitored application processes and performed error fixing</li>
+                        </ul>
+                    </div><!-- Edn Resume Item -->
+
+                    <div class="resume-item">
+                        <h4>Web Developer</h4>
+                        <h5>Feb 2024 - Apr 2024</h5>
+                        <p><em>Freelance - Semarang City</em></p>
+                        <ul>
+                            <li>Created and developed a web-based zakat payment system for Al'Kautsar Mosque in Semarang</li>
+                            <li>Worked in a 2-person team to develop this system</li>
+                            <li>Developed software using PHP (Native) and Laravel</li>
                         </ul>
                     </div><!-- Edn Resume Item -->
 
