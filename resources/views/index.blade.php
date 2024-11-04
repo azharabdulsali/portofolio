@@ -244,34 +244,36 @@ azhar-abdul-sali"><i class="bi bi-linkedin"></i></a>
                     <h3 class="resume-title">Sumary</h3>
 
                     <div class="resume-item pb-0">
-                        <h4>Brandon Johnson</h4>
-                        <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing
-                                and developing user-centered digital/print marketing material from initial concept
-                                to final, polished deliverable.</em></p>
+                        <h4>Azhar Abdul Sali</h4>
+                        <p><em>Innovative and deadline-driven Software Developer with 1+ years of experience working in web
+                                technologies such as PHP, Laravel, JavaScript, and MySQL. Skilled in all phases of the
+                                development cycle for dynamic web projects.</em></p>
                         <ul>
-                            <li>Portland par 127,Orlando, FL</li>
-                            <li>(123) 456-7891</li>
-                            <li>alice.barkley@example.com</li>
+                            <li>Kota Semarang</li>
+                            <li>+62 822 5598 2196</li>
+                            <li>syafiq.azhar02@gmail.com</li>
                         </ul>
                     </div><!-- Edn Resume Item -->
 
                     <h3 class="resume-title">Education</h3>
                     <div class="resume-item">
-                        <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                        <h5>2015 - 2016</h5>
-                        <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                        <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero
-                            voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                        <h4>Bachelor Degree in Informatics</h4>
+                        <h5>2022 - 2026 (Expected)</h5>
+                        <p><em>Muhammadiyah University of Semarang - Semarang City</em></p>
+                        <p>GPA: 3.85/4.00</p>
+                        <p>Major coursework: Information Systems, Data Management & Programming, Object-Oriented
+                            Programming, Data Structures, Algorithms & Programming</p>
                     </div><!-- Edn Resume Item -->
 
                     <div class="resume-item">
-                        <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                        <h5>2010 - 2014</h5>
-                        <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                        <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel
-                            ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
-                            consequatur neque etlon sader mart dila</p>
-                    </div><!-- Edn Resume Item -->
+                        <h4>Senior High School</h4>
+                        <h5>2019 - 2022</h5>
+                        <p><em>SMA Negeri 1 Sebuku - North Kalimantan</em></p>
+                        <ul>
+                            <li>3rd Place in Musabaqoh Tilawatil Qur'an (MTQ) at District Level (2020)</li>
+                            <li>Top 5 in Olimpiade Sains Nasional (OSN) - Astronomy at District Level (2019)</li>
+                        </ul>
+                    </div><!-- End Resume Item -->
 
                 </div>
 
